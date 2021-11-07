@@ -1,0 +1,16 @@
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\bin\Debug\net5.0\TelefonRehberiProjesi.exe
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\bin\Debug\net5.0\TelefonRehberiProjesi.deps.json
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\bin\Debug\net5.0\TelefonRehberiProjesi.runtimeconfig.json
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\bin\Debug\net5.0\TelefonRehberiProjesi.runtimeconfig.dev.json
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\bin\Debug\net5.0\TelefonRehberiProjesi.dll
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\bin\Debug\net5.0\ref\TelefonRehberiProjesi.dll
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\bin\Debug\net5.0\TelefonRehberiProjesi.pdb
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.csproj.AssemblyReference.cache
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.AssemblyInfoInputs.cache
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.AssemblyInfo.cs
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.csproj.CoreCompileInputs.cache
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.dll
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\ref\TelefonRehberiProjesi.dll
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.pdb
+D:\DEMO\Work\cSharp Workspace\Projeler\TelefonRehberiProjesi\obj\Debug\net5.0\TelefonRehberiProjesi.genruntimeconfig.cache

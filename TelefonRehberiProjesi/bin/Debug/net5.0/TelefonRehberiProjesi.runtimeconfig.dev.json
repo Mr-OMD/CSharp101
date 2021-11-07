@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\OmerT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\OmerT\\.nuget\\packages",
+      "D:\\Visual Studio Community\\Visual Studio Shared\\NuGetPackages"
+    ]
+  }
+}
